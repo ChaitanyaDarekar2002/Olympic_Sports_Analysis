@@ -577,18 +577,11 @@ Special thanks to the dataset providers for making historical Olympic data avail
 
 # 👨‍💻 Author
 
-**Shantanu**
+**Chaitanya Darekar**
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using **SQL, Power BI, Data Analytics, and Visualization**.
 
 ---
 
-# 📜 License
-
-This project is created for **educational and portfolio purposes**.
-
-Please refer to the dataset's original source and licensing terms before redistributing the underlying data.
-
----
 
 ⭐ **If you found this project useful, consider giving the repository a star!**
