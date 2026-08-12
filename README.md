@@ -411,22 +411,7 @@ Olympics-Sports-Analytics/
 │   ├── SQL_Queries/
 │   └── SQL_Views/
 │
-├── EDA Questions/
-│   ├── Questions/
-│   ├── Solution Queries/
-│   └── Solution Output/
-│
-├── Power BI/
-│   ├── Sports_Analytics.pbix
-│   └── PowerBI_Questions.txt
-│
-├── Screenshots/
-│   ├── ERD_Diagram.png
-│   ├── Dashboard_01_Olympic_Games_Overview.png
-│   ├── Dashboard_02_Sports_Events_Analysis.png
-│   ├── Dashboard_03_Athlete_Analysis.png
-│   ├── Dashboard_04_Medal_Analysis.png
-│   └── Dashboard_05_Regional_Analysis.png
+|
 │
 ├── README.md
 └── .gitignore
@@ -434,17 +419,6 @@ Olympics-Sports-Analytics/
 
 ---
 
-# 🚀 How to Run the Project
-
-## Step 1 — Clone the Repository
-
-```bash
-git clone https://github.com/shantanu768/olympics-sports-analytics.git
-```
-
-```bash
-cd olympics-sports-analytics
-```
 
 ---
 
@@ -478,23 +452,6 @@ The SQL Views can then be used as prepared analytical datasets for Power BI.
 
 ---
 
-## Step 4 — Open Power BI Dashboard
-
-Open:
-
-```text
-Power BI/Sports_Analytics.pbix
-```
-
-If required:
-
-1. Update the SQL Server data source.
-2. Verify the database connection.
-3. Refresh the dataset.
-4. Check relationships and measures.
-5. Use slicers and filters to interact with the dashboard.
-
----
 
 # 📌 Skills Demonstrated
 
