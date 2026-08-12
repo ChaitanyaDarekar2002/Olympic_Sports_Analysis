@@ -302,7 +302,8 @@ The Power BI dashboard contains multiple interactive pages designed to provide a
 
 ### 🏅 Olympic Games Overview
 
-![Olympic Games Overview](Screenshots/Dashboard_01_Olympic_Games_Overview.png)
+<img width="1907" height="1019" alt="Screenshot 2026-08-12 151114" src="https://github.com/user-attachments/assets/f288ab1a-4bc3-4610-9658-c0e9c0ebd75c" />
+
 
 ### 🏃 Sports & Events Analysis
 
