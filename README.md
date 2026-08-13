@@ -307,7 +307,8 @@ The Power BI dashboard contains multiple interactive pages designed to provide a
 
 ### 🏃 Sports & Events Analysis
 
-![Sports and Events Analysis](Screenshots/Dashboard_02_Sports_Events_Analysis.png)
+<img width="1907" height="1023" alt="Screenshot 2026-08-13 143944" src="https://github.com/user-attachments/assets/03d716a1-d785-4419-92d6-4f0877d6c406" />
+
 
 ### 👥 Athlete Analysis
 
