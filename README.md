@@ -312,7 +312,8 @@ The Power BI dashboard contains multiple interactive pages designed to provide a
 
 ### 👥 Athlete Analysis
 
-![Athlete Analysis](Screenshots/Dashboard_03_Athlete_Analysis.png)
+<img width="1907" height="1021" alt="Screenshot 2026-08-13 143908" src="https://github.com/user-attachments/assets/8ca31bfe-872d-436e-98d9-7b998ea04298" />
+
 
 ### 🥇 Medal Analysis
 
