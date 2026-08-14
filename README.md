@@ -317,7 +317,8 @@ The Power BI dashboard contains multiple interactive pages designed to provide a
 
 ### 🥇 Medal Analysis
 
-![Medal Analysis](Screenshots/Dashboard_04_Medal_Analysis.png)
+<img width="1907" height="1019" alt="Screenshot 2026-08-14 141739" src="https://github.com/user-attachments/assets/37f59718-68d1-492a-bacc-2ae477a753de" />
+
 
 ### 🌍 Regional Analysis
 
