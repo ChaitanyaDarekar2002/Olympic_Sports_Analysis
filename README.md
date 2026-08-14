@@ -322,7 +322,8 @@ The Power BI dashboard contains multiple interactive pages designed to provide a
 
 ### 🌍 Regional Analysis
 
-![Regional Analysis](Screenshots/Dashboard_05_Regional_Analysis.png)
+<img width="1907" height="1018" alt="Screenshot 2026-08-14 141805" src="https://github.com/user-attachments/assets/42e9283c-8c6e-45d6-8443-32c59c556bcb" />
+
 
 ### Medal Table
 
